@@ -1,13 +1,3 @@
-# Reliability-Systems
-
-
-
-Reliability Systems Project ECE AUTh Course 2022-23
-## Project on "Using watchdogs to increase reliability"   
-
-## Project on XXXXXX
-
-
 <br />
 <div align="center">
   <h1 align="center"> Reliability-Systems</h1>
