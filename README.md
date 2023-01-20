@@ -8,6 +8,8 @@
     <br />
     Winter Semester 2022 - 2023
     <br />
+    - Bibliographic project on "Using watchdogs to increase reliability"
+    - Computational project on "Simulating errors and states in a system with 7 different components-subsystems"
     <br />
   </p>
 </div>
